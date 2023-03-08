@@ -1,6 +1,8 @@
 # End to end project using SQL,Excel and Tableau 
 Project: To find relevant information from Movies DB and find correlation and pattern
 
+
+
 I have answered the below question to analyze the DB 
 Question 1: Top 5 actor's movies that have been rented the most during the period of the analysis 
 Question 2 : Top 5 popular categories 
